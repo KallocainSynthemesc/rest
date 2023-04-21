@@ -1,6 +1,6 @@
-## Php cours
+## REST cours
 
-To see the the presentation on github pages go to https://kallocainsynthemesc.github.io/php-cours/
+To see the the presentation on github pages go to https://kallocainsynthemesc.github.io/rest/
 
 ## Project Setup
 
