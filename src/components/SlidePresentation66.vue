@@ -27,7 +27,6 @@
 <span style="color: #008800; font-weight: bold">public</span> String <span style="color: #0066BB; font-weight: bold">getPersonById</span><span style="color: #333333">(</span><span style="color: #555555; font-weight: bold">@PathParam</span><span style="color: #333333">(</span><span style="background-color: #fff0f0">&quot;id&quot;</span><span style="color: #333333">)</span> <span style="color: #333399; font-weight: bold">long</span> id<span style="color: #333333">)</span> <span style="color: #333333">{</span>
 	Person resultPers <span style="color: #333333">=</span> <span style="color: #008800; font-weight: bold">null</span><span style="color: #333333">;</span>
 	<span style="color: #888888">////TODO Mettre en œuvre la méthode getPersonById</span>
-	<span style="color: #888888">//Adding CORS header for testing. This header should not be in production code</span>
 	<span style="color: #008800; font-weight: bold">return</span> resultPers<span style="color: #333333">.</span><span style="color: #0000CC">toString</span><span style="color: #333333">();</span>
 <span style="color: #333333">}</span>
 </pre>
@@ -39,7 +38,7 @@
             fais
           </p>
           <a
-            href="/exercices/rest/jax-rs-exercice-1.zip"
+            href="./exercices/rest/jax-rs-exercice-1.zip"
             download="jax-rs-exercice-1.zip"
             ><img
               src="../assets/illustrations/zip-file.svg"

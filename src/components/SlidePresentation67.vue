@@ -31,7 +31,7 @@
       </div>
 
       <a
-        href="/exercices/rest/jax-rs-exercice-1.zip"
+        href="./exercices/rest/jax-rs-exercice-1.zip"
         download="jax-rs-exercice-1.zip"
         ><img
           src="../assets/illustrations/zip-file.svg"

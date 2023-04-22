@@ -32,7 +32,7 @@
       </h3>
       <br />
       <a
-        href="/exercices/jaxb/jaxb-exercice-1.zip"
+        href="./exercices/jaxb/jaxb-exercice-1.zip"
         download="jaxb-exercice-1.zip"
         ><img
           src="../assets/illustrations/zip-file.svg"
