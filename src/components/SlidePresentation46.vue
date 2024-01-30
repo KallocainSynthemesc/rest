@@ -14,7 +14,7 @@
           <br />
           <p>REST peut être construit au-dessus du HttpServlet.</p>
           <a
-            href="/solutions/rest/REST-simple-solution.zip"
+            href="solutions/rest/REST-simple-solution.zip"
             download="REST-simple-solution.zip"
             ><img
               src="../assets/illustrations/zip-file.svg"

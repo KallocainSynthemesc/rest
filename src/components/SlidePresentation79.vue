@@ -14,7 +14,7 @@
         pour PersonResource dans la nouvelle BankAccountResource ?
       </h3>
       <a
-        href="./exercices/rest/jaxrs-jaxb-exercice-1.zip"
+        href="exercices/rest/jaxrs-jaxb-exercice-1.zip"
         download="jaxrs-jaxb-exercice-1.zip"
         ><img
           src="../assets/illustrations/zip-file.svg"

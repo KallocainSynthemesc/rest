@@ -83,6 +83,19 @@ import SlidePresentation81 from "./components/SlidePresentation81.vue";
 import SlidePresentation82 from "./components/SlidePresentation82.vue";
 import SlidePresentation83 from "./components/SlidePresentation83.vue";
 import SlidePresentation84 from "./components/SlidePresentation84.vue";
+import SlidePresentation85 from "./components/SlidePresentation85.vue";
+import SlidePresentation86 from "./components/SlidePresentation86.vue";
+import SlidePresentation87 from "./components/SlidePresentation87.vue";
+import SlidePresentation88 from "./components/SlidePresentation88.vue";
+import SlidePresentation89 from "./components/SlidePresentation89.vue";
+import SlidePresentation90 from "./components/SlidePresentation90.vue";
+import SlidePresentation91 from "./components/SlidePresentation91.vue";
+import SlidePresentation92 from "./components/SlidePresentation92.vue";
+import SlidePresentation93 from "./components/SlidePresentation93.vue";
+import SlidePresentation94 from "./components/SlidePresentation94.vue";
+import SlidePresentation95 from "./components/SlidePresentation95.vue";
+import SlidePresentation96 from "./components/SlidePresentation96.vue";
+import SlidePresentation97 from "./components/SlidePresentation97.vue";
 </script>
 
 <template>
@@ -175,6 +188,19 @@ import SlidePresentation84 from "./components/SlidePresentation84.vue";
           <SlidePresentation82></SlidePresentation82>
           <SlidePresentation83></SlidePresentation83>
           <SlidePresentation84></SlidePresentation84>
+          <SlidePresentation85></SlidePresentation85>
+          <SlidePresentation86></SlidePresentation86>
+          <SlidePresentation87></SlidePresentation87>
+          <SlidePresentation88></SlidePresentation88>
+          <SlidePresentation89></SlidePresentation89>
+          <SlidePresentation90></SlidePresentation90>
+          <SlidePresentation91></SlidePresentation91>
+          <SlidePresentation92></SlidePresentation92>
+          <SlidePresentation93></SlidePresentation93>
+          <SlidePresentation94></SlidePresentation94>
+          <SlidePresentation95></SlidePresentation95>
+          <SlidePresentation96></SlidePresentation96>
+          <SlidePresentation97></SlidePresentation97>
         </section>
 
         <section class="counter">
@@ -183,11 +209,11 @@ import SlidePresentation84 from "./components/SlidePresentation84.vue";
             id="index"
             name="index"
             min="1"
-            max="83"
+            max="96"
             value="1"
             style="width: 40%"
           />
-          of 83
+          of 96
         </section>
 
         <section class="navigation">
