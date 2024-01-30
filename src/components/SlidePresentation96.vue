@@ -11,7 +11,7 @@
       </p>
       <a
         href="solutions/spring/spring-rest-exercice.zip"
-        download="jaxrs-jaxb-exercice-1.zip"
+        download="spring-rest-exercice.zip"
         ><img
           src="../assets/illustrations/zip-file.svg"
           style="width: 8%"

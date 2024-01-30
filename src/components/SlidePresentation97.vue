@@ -5,8 +5,8 @@
       <h2>Voici un exemple de mise en œuvre</h2>
       <br />
       <a
-        href="solutions/spring/spring-rest-exemple.zip"
-        download="jaxrs-jaxb-exercice-1.zip"
+        href="solutions/spring/spring-rest-example.zip"
+        download="spring-rest-exemple.zip"
         ><img
           src="../assets/illustrations/zip-file.svg"
           style="width: 8%"
