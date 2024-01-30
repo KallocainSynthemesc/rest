@@ -5,7 +5,7 @@
       <h2>Voici un exemple de mise en œuvre</h2>
       <br />
       <a
-        href="exercices/spring/spring-rest-exemple.zip"
+        href="solutions/spring/spring-rest-exemple.zip"
         download="jaxrs-jaxb-exercice-1.zip"
         ><img
           src="../assets/illustrations/zip-file.svg"
